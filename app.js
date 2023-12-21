@@ -21,7 +21,7 @@ function verificarChute() {
 
     if (chute == '03122021') {
         exibirTextoNaTela('h1', 'EU TE AMO MEU AMOR!!!');
-        exibirTextoNaTela('p', 'Ass: Henrique (AMOR DA SUA VIDA)');
+        exibirTextoNaTela('p', 'bunda: Henrique (AMOR DA SUA VIDA)');
         document.getElementById('reiniciar').removeAttribute('disabled');
     } else if (chute == numeroSecreto) {
         exibirTextoNaTela('h1', 'Acertou!!!');
